@@ -1,13 +1,11 @@
-- National Scholarship of Graduate Student, 2024.
+- Excellent Student Scholarship, 2024.
 
-- First-prize Scholarship of CUMT, 2024.
+- Excellent Student Scholarship, 2023.
 
-- First-prize Scholarship of CUMT, 2023.
+- Shanghai Institute of Applied Physics of CAS Scholarship, 2023.
 
-- Freshman Scholarship of CUMT, 2022.
+- Zhang Zongzhi Sci-Tech Scholarship, 2022.
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
+- China Undergraduate Physics Tournament, 2022.
 
-- First-prize Enterprise Scholarship of CUMT, 2020.
-
-- First-prize Scholarship of CUMT, 2019.
+- Outstanding Freshman Scholarship (Gold), 2021.

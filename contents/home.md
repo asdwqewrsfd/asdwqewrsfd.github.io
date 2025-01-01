@@ -1,6 +1,6 @@
 
 
-[![asdwqewrsfd](https://img.shields.io/badge/asdwqewrsfd-github-blue?logo=github)](https://github.com/asdwqewrsfd)
+[![asdwqewrsfd](https://img.shields.io/badge/RuiqingZang-github-blue?logo=github)](https://github.com/asdwqewrsfd)
 
 He is currently pursuing a Bachelor's Degree in Applied Physics and Computer Science at the University of Science and Technology of China.
 

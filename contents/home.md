@@ -2,7 +2,7 @@
 
 [![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
 
-He is currently pursuing a Bachelor's Degree in Applied Physics and Computer Science and Technology, at University of Science and Technology of China.
+He is currently pursuing a Bachelor's Degree in Applied Physics and Computer Science at the University of Science and Technology of China.
 
 #### Email
 ruiqingzang[at]berkeley.cn

@@ -7,12 +7,15 @@
 
 
 
-  ![figure 3: Band structure measured with a He lamp for CsV<sub>3</sub>Sb<sub>4.91</sub>Sn<sub>0.09</sub> along the Γ-K-M direction](static/assets/img/1.PNG)
+  ![figure 3: Band structure measured with a He lamp for CsV<sub>3</sub>Sb<sub>4.91</sub>Sn<sub>0.09</sub> along the Γ-K-M direction](static/assets/img/1.png)
 
 
 
   - A 2×2 CDW feature gap opened as well
-  ![figure 4: Band structure measured with Laser for CsV<sub>3</sub>Sb<sub>4.91</sub>Sn<sub>0.09</sub> along the Γ-K-M direction](static/assets/img/2.PNG)
+
+
+
+  ![figure 4: Band structure measured with Laser for CsV<sub>3</sub>Sb<sub>4.91</sub>Sn<sub>0.09</sub> along the Γ-K-M direction](static/assets/img/2.png)
 
 
 

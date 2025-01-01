@@ -15,10 +15,10 @@
 - The two kind of gaps demonstrated the existence of strip order.
 
 ![figure 5: Gap around VHs measured with the He lamp](static/assets/img/3.PNG)
-*Figure 4: Gap around VHs measured with the He lamp.*
+*Figure 5: Gap around VHs measured with the He lamp.*
 
 ![figure 6: Gap of 2×2 CDW feature](static/assets/img/4.PNG)
-*Figure 4: Gap of 2×2 CDW feature mewsured with laser.*
+*Figure 6: Gap of 2×2 CDW feature mewsured with laser.*
 
 - The nesting instability arises once the 2 × 2 reconstruction of the original Fermi surface is lifted and the Fermi level is shifted downward via hole-doping.
 

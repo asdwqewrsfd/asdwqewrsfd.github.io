@@ -31,4 +31,3 @@
 - Fabricated a twisted bilayer WSe2 device with a 60° twist angle.(<strong>Bn Sliding</strong>)
 
 #### Bn Sliding
-- 

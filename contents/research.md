@@ -31,5 +31,7 @@
 - Fabricated a twisted bilayer WSe2 device with a 60° twist angle.(<strong>Bn Sliding</strong>)
 
 #### Bn Sliding
+- Use PVC to pull up the top Bn and then scratch the nanoribbon graphite to get a clean and open surface device.
 
-
+![figure 7](static/assets/img/BnSliding.png)
+<small>*Figure 7: Bn Sliding.*</small>

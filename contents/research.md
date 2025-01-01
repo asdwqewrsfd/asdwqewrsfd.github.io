@@ -1,5 +1,5 @@
 # ARPES Study in CsV<sub>3</sub>Sb<sub>5</sub> Kagome Crystals
-  - Investigated the band structure of 9% Sn-doped CsV<sub>3</sub>Sb<sub>5</sub> using ARPES and identified a stripe order with a gap opening at the Van Hove singularity.\
+  - Investigated the band structure of 9% Sn-doped CsV<sub>3</sub>Sb<sub>5</sub> using ARPES and identified a stripe order with a gap opening at the Van Hove singularity.
   
   
   
@@ -19,7 +19,7 @@
 
 
 
-  - 
+
 
 
   

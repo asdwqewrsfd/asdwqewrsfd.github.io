@@ -19,3 +19,10 @@
 
 ![figure 6: Gap of 2×2 CDW feature](static/assets/img/4.PNG)
 *Figure 4: Gap of 2×2 CDW feature mewsured with laser.*
+
+- The nesting instability arises once the 2 × 2 reconstruction of the original Fermi surface is lifted and the Fermi level is shifted downward via hole-doping.
+
+
+
+# Fabrication of twisted TMD devices and STM study in twisted TMD moiré systems
+-

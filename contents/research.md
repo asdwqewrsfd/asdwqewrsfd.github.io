@@ -22,9 +22,9 @@
 
 <small>*Figure 6: Gap around VHs measured with the laser.*</small>
 
-- The nesting instability arises once the 2 × 2 reconstruction of the original Fermi surface is lifted and the Fermi level is shifted downward via hole-doping.
+- The nesting instability arises once the 2 × 2 reconstruction of the original Fermi surface is lifted and the Fermi level is shifted downward via hole-doping.<br>
 
-
+<br>
 
 # Fabrication of twisted TMD devices and STM study in twisted TMD moiré systems
 - Fabricated a twisted double bilayer WSe2 device with a 182° twist angle.(<strong>Bn Sliding</strong>)

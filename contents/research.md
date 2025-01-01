@@ -45,6 +45,8 @@
 
 ![figure 9](static/assets/img/GD.png)
 <small>*Figure 9: Gate dependent LDOS*</small>
+<img src="static/assets/img/GD.png" alt="Figure 9" width="33%" />
 
 ![figure 10](static/assets/img/2D.png)
 <small>*Figure 10: 2D map of gate voltage and bias voltage*</small>
+<img src="static/assets/img/2D.png" alt="Figure 10" width="33%" />

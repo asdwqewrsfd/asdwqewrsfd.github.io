@@ -28,6 +28,8 @@
 - Induced Wigner crystal sliding and melting under an in-plane D field, applied through thin contacts fabricated via photolithography.
 - Fabricated a twisted double bilayer WSe2 device with a 182° twist angle.(<strong>Bn Sliding</strong>)
 - Fabricated a twisted bilayer WSe2 device with a 60° twist angle.(<strong>Bn Sliding</strong>)
+<img src="static/assets/img/WSe2.png" width="30%" />
+<small>*LDOS of 60 degree Tb-WSe2*</small
 
 #### Bn Sliding
 - Use PVC to pull up the top Bn and then scratch the nanoribbon graphite to get a clean and open surface device.

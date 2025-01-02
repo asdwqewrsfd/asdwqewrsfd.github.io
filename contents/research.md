@@ -38,16 +38,13 @@
 
 - Performed independent STM measurements on Bernal pentalayer graphene, achieving atomic resolution and gate-dependent LDOS characterization.
 
-![figure 8](static/assets/img/AR.png)
 <small>*Figure 8: Atmoic Resolution.*</small>
-<img src="static/assets/img/AR.png" alt="Figure 10" width="60%" />
+<img src="static/assets/img/AR.png" alt="Figure 8" width="60%" />
 
 - Identified the phonon gap, observed the shift of the peak of flat band by doping electrons.
 
-![figure 9](static/assets/img/GD.png)
 <small>*Figure 9: Gate dependent LDOS*</small>
-<img src="static/assets/img/GD.png" alt="Figure 9" width="10%" />
+<img src="static/assets/img/GD.png" alt="Figure 9" width="40%" />
 
-![figure 10](static/assets/img/2D.png)
 <small>*Figure 10: 2D map of gate voltage and bias voltage*</small>
-<img src="static/assets/img/2D.png" alt="Figure 10" width="10%" />
+<img src="static/assets/img/2D.png" alt="Figure 10" width="40%" />

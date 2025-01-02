@@ -25,6 +25,7 @@
 <br>
 
 # Fabrication of twisted TMD devices and STM study in twisted TMD moiré systems
+- Induced Wigner crystal sliding and melting under an in-plane D field, applied through thin contacts fabricated via photolithography.
 - Fabricated a twisted double bilayer WSe2 device with a 182° twist angle.(<strong>Bn Sliding</strong>)
 - Fabricated a twisted bilayer WSe2 device with a 60° twist angle.(<strong>Bn Sliding</strong>)
 

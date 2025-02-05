@@ -1,0 +1,1 @@
+- Linwei Huai#, Zhuying Wang#, Huachen Rao#, Yulei Han#, Bo Liu, Shuikang Yu, Yunmei Zhang, <strong>Ruiqing Zang</strong>, Runqing Luan, Shuting Peng, Zhenhua Qiao, Zhenyu Wang*, Junfeng He*, Tao Wu* and Xianhui Chen*(2025). Electron-correlation-assisted charge stripe order in a Kagome superconductor (Manuscript Submitted).
